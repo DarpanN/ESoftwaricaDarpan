@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ESoftwaricaNepal</string>
+    <string name="title_activity_main_window">MainWindow</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Students Form</string>
+    <string name="title_notifications">About US</string>
+</resources>
