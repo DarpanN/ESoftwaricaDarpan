@@ -15,9 +15,9 @@
         android:layout_marginTop="72dp"
         android:layout_marginBottom="30dp"
         android:fontFamily="@font/lora"
-        android:text="Login Here...!!"
+        android:text="Login Here"
         android:textColor="#ff00"
-        android:textSize="40dp" />
+        android:textSize="40sp" />
 
     <LinearLayout
         android:layout_width="match_parent"
@@ -38,7 +38,7 @@
             android:id="@+id/LGname"
             android:layout_width="260dp"
             android:layout_height="46dp"
-            android:textSize="20dp"
+            android:textSize="20sp"
             android:inputType="text"
             android:hint="Please Enter Username"
             android:textColorHint="#FFFFFF" />
@@ -70,7 +70,7 @@
             android:id="@+id/LGpassword"
             android:layout_width="260dp"
             android:layout_height="46dp"
-            android:textSize="20dp"
+            android:textSize="20sp"
             android:layout_marginRight="10dp"
             android:inputType="textPassword"
             android:hint="Please Enter Password"
@@ -97,5 +97,5 @@
         android:text="Login"
         android:background="#0000ff"
         android:textColor="#ff00"
-        android:textSize="25dp" />
+        android:textSize="25sp" />
 </LinearLayout>

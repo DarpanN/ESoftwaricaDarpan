@@ -10,11 +10,11 @@
         android:layout_height="wrap_content"
         android:background="#FFFF00"
         android:fontFamily="monospace"
-        android:text="Detail-Students"
+        android:text="Student-Details"
         android:textAlignment="center"
         android:textColorHighlight="@color/cardview_light_background"
         android:textFontWeight="100"
-        android:textSize="45dp"
+        android:textSize="45sp"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
